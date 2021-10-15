@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Olympia/static/css/main.a617e044.chunk.css",
+    "main.js": "/Olympia/static/js/main.15425a27.chunk.js",
+    "main.js.map": "/Olympia/static/js/main.15425a27.chunk.js.map",
+    "runtime-main.js": "/Olympia/static/js/runtime-main.2698d311.js",
+    "runtime-main.js.map": "/Olympia/static/js/runtime-main.2698d311.js.map",
+    "static/js/2.2015ac9d.chunk.js": "/Olympia/static/js/2.2015ac9d.chunk.js",
+    "static/js/2.2015ac9d.chunk.js.map": "/Olympia/static/js/2.2015ac9d.chunk.js.map",
+    "static/js/3.d68ecf61.chunk.js": "/Olympia/static/js/3.d68ecf61.chunk.js",
+    "static/js/3.d68ecf61.chunk.js.map": "/Olympia/static/js/3.d68ecf61.chunk.js.map",
+    "index.html": "/Olympia/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Olympia/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2015ac9d.chunk.js.LICENSE.txt": "/Olympia/static/js/2.2015ac9d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Olympia/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2698d311.js",
+    "static/js/2.2015ac9d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.15425a27.chunk.js"
+  ]
+}
