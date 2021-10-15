@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Olympia/static/css/main.a617e044.chunk.css",
-    "main.js": "/Olympia/static/js/main.e2769c06.chunk.js",
-    "main.js.map": "/Olympia/static/js/main.e2769c06.chunk.js.map",
+    "main.js": "/Olympia/static/js/main.9f4125d2.chunk.js",
+    "main.js.map": "/Olympia/static/js/main.9f4125d2.chunk.js.map",
     "runtime-main.js": "/Olympia/static/js/runtime-main.2698d311.js",
     "runtime-main.js.map": "/Olympia/static/js/runtime-main.2698d311.js.map",
     "static/js/2.2015ac9d.chunk.js": "/Olympia/static/js/2.2015ac9d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2698d311.js",
     "static/js/2.2015ac9d.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.e2769c06.chunk.js"
+    "static/js/main.9f4125d2.chunk.js"
   ]
 }
